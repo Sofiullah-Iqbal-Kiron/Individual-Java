@@ -1,0 +1,7 @@
+* Java provides built-in support for multithreaded programming.
+* A multithreaded program contains two or more parts/methods that can run concurrently. Each part is called "A Thread".
+* Multitasking is not under Java's control. However, multithreaded multitasking is.
+* Thread.toString() returns: [Thread name, Priority, Group], but toString() is redundant. No need to call it explicitly.
+* Italic styled method name in IntelliJ IDEA indicates those are static methods.
+* 5 is the default priority of any thread.
+* static void sleep(long milliseconds) throws InterruptedException:
