@@ -2,6 +2,6 @@
 
 public class Basic {
     public static void main(String[] args) {
-        System.out.println("Applet here yoo!");
+        System.err.println("Applet here yoo!"); // err output is red or warning.
     }
 }
